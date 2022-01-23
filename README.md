@@ -27,4 +27,7 @@ Jsgenesis.
 ### Projects & Experience 🔭
 - *(May 2021 - present)* **[Joystream](https://github.com/ignazio-bovo/joystream)**: blockchain backend development using the
 [substrate](https://substrate.io/) framework by the folks at [Parity](https://www.parity.io/technologies/substrate/) 
+- *(Feb 2021 - present)* **[Website](https://ignazio-bovo.github.io/)**: a collection of personal notes
+attempting to keep up with the latest DeFi projects
+
 

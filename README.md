@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><pre align="center">
+<strong>Ignazio Bovo ∙ </strong><a href="https://github.com/ignazio-bovo">GitHub</a> ∙ <a href="https://www.linkedin.com/in/ignazio-bovo-378113177/">LinkedIn</a></pre></p>

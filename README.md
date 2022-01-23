@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 <strong>Ignazio Bovo ∙ </strong><a href="https://github.com/ignazio-bovo">GitHub</a> ∙ <a href="https://www.linkedin.com/in/ignazio-bovo-378113177/">LinkedIn</a></pre></p>
 
 ### Hi there 👋
-I'm currently a blockchain backend developer building [Joystream](https://www.joystream.org/) at
+I'm Ignazio and I'm currently a blockchain backend developer building [Joystream](https://www.joystream.org/) at
 Jsgenesis.
 
-### Projects
+### Projects 🔭
 - **[Joystream](https://github.com/ignazio-bovo/joystream)**: blockchain backend development using the
 [substrate](https://substrate.io/) framework by the folks at [Parity](https://www.parity.io/technologies/substrate/).
+
+![Metrics](/github-metrics.svg)

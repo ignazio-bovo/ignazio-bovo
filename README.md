@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I'm Ignazio and I'm currently a blockchain backend developer building [Joystream](https://www.joystream.org/) at
 Jsgenesis.
 
-### Projects 🔭
-- **[Joystream](https://github.com/ignazio-bovo/joystream)**: blockchain backend development using the
+### Projects & Experience 🔭
+- *(May 2021 - present)* **[Joystream](https://github.com/ignazio-bovo/joystream)**: blockchain backend development using the
 [substrate](https://substrate.io/) framework by the folks at [Parity](https://www.parity.io/technologies/substrate/).
 

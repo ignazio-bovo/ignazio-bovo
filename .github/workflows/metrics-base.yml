@@ -21,3 +21,4 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories
           plugin_lines: yes
+          plugin_habits: yes

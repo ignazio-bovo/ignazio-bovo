@@ -25,8 +25,7 @@ I'm Ignazio and I'm currently a blockchain backend developer building [Joystream
 Jsgenesis.
 
 ### Projects & Experience 🔭
-- *(May 2021 - present)* **[Joystream](https://github.com/ignazio-bovo/joystream)**: blockchain backend development using the
+- *(Dec 2023 - present)* **Joystream DAO** builder and distribution working group lead, mainly responsible for cache nodes on the Joystream decentralized CDN
+- *(May 2021 - Dec 2023)* **[Joystream](https://github.com/ignazio-bovo/joystream)**: blockchain backend development using the
 [substrate](https://substrate.io/) framework by the folks at [Parity](https://www.parity.io/technologies/substrate/) 
-- *(Feb 2021 - present)* **[Website](https://ignazio-bovo.github.io/)**: a collection of personal notes
-attempting to keep up with the latest DeFi projects
 

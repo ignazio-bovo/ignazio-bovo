@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Info 👋
-I'm Ignazio and I'm currently a blockchain backend developer building [Joystream](https://www.joystream.org/) at
-Jsgenesis.
+I'm Ignazio and I'm currently a blockchain/backend developer building [Joystream DAO](https://www.joystream.org/) 
 
 ### Projects & Experience 🔭
 - *(Dec 2023 - present)* **Joystream DAO** builder and distribution working group lead, mainly responsible for cache nodes on the Joystream decentralized CDN

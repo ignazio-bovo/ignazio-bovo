@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p><pre align="center">
-Ignazio Bovo<strong> </strong><a href="https://x.com/bovo_mr">X</a> ∙ <a href="https://github.com/ignazio-bovo">GitHub</a> ∙ <a href="https://www.linkedin.com/in/ignazio-bovo-378113177/">LinkedIn</a></pre></p>
+Ignazio Bovo<strong> ∙ </strong><a href="https://x.com/bovo_mr">X</a> ∙ <a href="https://github.com/ignazio-bovo">GitHub</a> ∙ <a href="https://www.linkedin.com/in/ignazio-bovo-378113177/">LinkedIn</a></pre></p>
 
 ### Info 👋
 
@@ -23,7 +23,7 @@ At the same time I am putting effort into launching my first legal-tech SaaS as 
 
 - 🔭 I’m currently working on Joystream DAO and Legal tech software
 - 🌱 I’m currently learning OpenAI api
-- 📫 How to reach me: DM on LinkedIn and X (links above)
+- 📫 How to reach me: LinkedIn / X (links above)
   <!-- - ⚡ Fun fact: I am funny -->
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 💬 Ask me about ... -->

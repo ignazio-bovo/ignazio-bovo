@@ -30,7 +30,7 @@ At the same time I am putting effort into launching my first legal-tech SaaS as 
 
 ### Projects & Experience 🔭
 
-- _(May 2024 - present)_ **Indie Maker** Building in public legal tech software (follow me on [X])
+- _(May 2024 - present)_ **Indie Maker** Building in public legal tech software
 - _(Feb 2024 - present)_ **Shadowy Creators** contractor for EVM based indexing solution on a rust backend
 - _(Dec 2023 - present)_ **Joystream DAO** builder and distribution working group lead, mainly responsible for cache nodes on the Joystream decentralized CDN
 - _(May 2021 - Dec 2023)_ **[Joystream](https://github.com/ignazio-bovo/joystream)**: blockchain backend development using the

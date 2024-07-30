@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 I'm Ignazio and I'm currently a blockchain/backend developer building [Joystream DAO](https://www.joystream.org/).  
 
 - 🔭 I’m currently working mainly on Joystream DAO 
-- 🌱 I’m currently learning OpenAI api and LLV
 - 📫 How to reach me: LinkedIn / X (links in the profile section)
   <!-- - ⚡ Fun fact: I am funny -->
   <!-- - 👯 I’m looking to collaborate on ... -->

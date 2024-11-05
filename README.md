@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Info 👋
 
-I'm Ignazio and I'm currently a blockchain/backend developer building [Joystream DAO](https://www.joystream.org/).  
+I'm Ignazio and I'm currently a blockchain/backend developer 
 
 - 🔭 I’m currently working for Datura.ai
 - 📫 How to reach me: LinkedIn / X (links in the profile section)

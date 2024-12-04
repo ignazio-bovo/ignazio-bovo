@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- <p><pre align="center"> -->
-<!-- Ignazio Bovo<strong> ∙ </strong><a href="https://x.com/bovo_mr">X</a> ∙ <a href="https://github.com/ignazio-bovo">GitHub</a> ∙ <a href="https://www.linkedin.com/in/ignazio-bovo-378113177/">LinkedIn</a></pre></p> -->
+<!-- MrBovo <strong> ∙ </strong><a href="https://x.com/bovo_mr">X</a> ∙ <a href="https://github.com/ignazio-bovo">GitHub</a> ∙ <a href="https://www.linkedin.com/in/ignazio-bovo-378113177/">LinkedIn</a></pre></p> -->
 
 ### Info 👋
 
-I'm Ignazio and I'm currently a blockchain/backend developer 
+I'm currently a blockchain/backend developer 
 
 - 🔭 I’m currently working for Datura.ai & ShadowyCoders
 - 📫 How to reach me: LinkedIn / X (links in the profile section)

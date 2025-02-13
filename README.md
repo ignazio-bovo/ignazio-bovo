@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm currently a blockchain/backend developer 
 
-- 🔭 I’m currently working for Datura.ai & ShadowyCoders
+- 🔭 I’m currently working for ShadowyCoders
 - 📫 How to reach me: LinkedIn / X (links in the profile section)
   <!-- - ⚡ Fun fact: I am funny -->
   <!-- - 👯 I’m looking to collaborate on ... -->

@@ -28,8 +28,8 @@ I'm currently a blockchain/backend developer
 
 ### Projects & Experience 🔭
 
-- _(Aug 2024 - present)_ **Datura.ai** building the next generation tools for the bittensor ecosystem
 - _(Feb 2024 - present)_ **Shadowy Creators** contractor for EVM based indexing solution on a rust backend
+- _(Aug 2024 - Feb 2025 )_ **Datura.ai** building the next generation tools for the bittensor ecosystem
 - _(Dec 2023 - July 2024)_ **Joystream DAO** builder and distribution working group lead, mainly responsible for cache nodes on the Joystream decentralized CDN
 - _(May 2021 - Dec 2023)_ **[Joystream](https://github.com/ignazio-bovo/joystream)**: blockchain backend development using the
   [substrate](https://substrate.io/) framework by the folks at [Parity](https://www.parity.io/technologies/substrate/)
